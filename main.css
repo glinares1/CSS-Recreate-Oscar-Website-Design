@@ -1,0 +1,13 @@
+.menudecontactos{
+    display: flex;
+    justify-content:end;
+    padding-left: 2em;
+}
+
+
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    border-bottom: 5em bold black;
+}
